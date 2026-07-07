@@ -12,4 +12,4 @@ Founder-engineer building production AI systems — and the tooling that proves 
 ### In production (private)
 **Xcelerate Digital** — HIPAA-compliant, human-in-the-loop claims-automation agent running daily for an 8-location dental group. Cut a 1–2 hour manual process to minutes. ~460 tests, deterministic fail-closed auditing.
 
-📫 xceleraterecruiting@gmail.com
+📫 davidmbmoore2@gmail.com · [LinkedIn](https://www.linkedin.com/in/david-moore-b10748211/)
